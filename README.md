@@ -27,4 +27,4 @@ Feel free to use these materials for:
 - Educational purposes
 
 ## 📄 License
-This repository is shared for educational purposes. Please credit the original authors when using or referencing this work.
+DO WHATEVER YOU WANT WITH THIS!!!
