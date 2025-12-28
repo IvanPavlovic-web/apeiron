@@ -1,30 +1,20 @@
-# University Materials Repository
+# SEMINARSKI RADOVI
 
-## 📚 Overview
-This repository contains university materials including seminar papers, projects, and thesis work from various courses. All content is originally in Serbian but can be translated to English as needed.
+## 📚 Pregled
+Ovaj repository sadrži zbirku seminarskih radova koje sam radio tokom studija. Svi radovi su na srpskom i mogu se koristiti kao referenca ili pomoć pri učenju.
 
-## 🎯 Purpose
-- Provide free educational resources for students
-- Share academic work for reference and study
-- Support learning and research activities
+## 🎯 Svrha
+- Omogućiti studentima besplatan pristup seminarskim radovima  
+- Deliti akademske radove za inspiraciju i učenje  
+- Podstaknuti saradnju i dodavanje novih radova  
 
-## 🌐 Languages
-- **Primary**: Serbian
-- **Available**: English translations (upon request/contribution)
+## 🤝 Kako doprineti
+Ako želite da dodate svoje seminarske radove:  
+1. **Fork-ujte repository**: kliknite na dugme *Fork* u gornjem desnom uglu GitHub stranice.  
+2. **Dodajte svoje radove** u vaš fork (kreirajte odgovarajuće foldere po predmetima ili temama).  
+3. **Pošaljite pull request**: kada završite sa dodavanjem, pošaljite pull request da bi vaš doprinos bio pregledan i uključen u glavni repository.  
 
-## 📁 Contents
-- Course materials and notes
-- Seminar papers
-- Project documentation
-- Thesis work
-- Various academic resources
+Na ovaj način zajednica može zajednički stvoriti korisnu zbirku seminarskih radova za sve.  
 
-## 🤝 Contribution
-Feel free to use these materials for:
-- Studying and learning
-- Academic research
-- Reference for your own papers
-- Educational purposes
-
-## 📄 License
-DO WHATEVER YOU WANT WITH THIS!!!
+## 📄 Licenca
+Svi radovi u ovom repository-ju su slobodni za korišćenje, deljenje i prilagođavanje.
