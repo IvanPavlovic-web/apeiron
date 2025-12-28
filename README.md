@@ -16,7 +16,7 @@ Ako želite da dodate svoje seminarske radove:
 2. **Dodajte svoje radove** u vaš fork (kreirajte odgovarajuće foldere po predmetima ili temama).  
 3. **Pošaljite pull request**: kada završite sa dodavanjem, pošaljite pull request da bi vaš doprinos bio pregledan i uključen u glavni repository.  
 
-Na ovaj način zajednica može zajednički stvoriti korisnu zbirku seminarskih radova za sve.  
+Na ovaj način zajednica može zajednički stvoriti korisnu zbirku seminarskih radova za sve.
 
 ## 📄 Licenca
 Svi radovi u ovom repositorijumu su slobodni za korištenje, dijeljenje i prilagođavanje. Cilj je da olakšam studentima i svima koji žele da uče ili razvijaju svoje radove, posebno onima koji imaju obaveze, porodicu ili druge životne izazove. Ovaj repozitorijum je napravljen sa željom da doprinesm zajednici i pomogne svima koji žele da se obrazuju.
