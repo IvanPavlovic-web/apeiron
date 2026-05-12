@@ -1,27 +1,27 @@
-# SEMINARSKI RADOVI
+# SEMINAR PAPERS
 
-## 📚 Čemu služi ovaj repo?
+## Purpose of This Repository
 
-Ovaj repositorijum sadrži zbirku seminarskih radova koje sam radio tokom studija. Svi radovi su na srpskom i mogu se koristiti kao referenca ili pomoć pri učenju.
+This repository contains a collection of seminar papers completed during my studies. All papers are written in Serbian and are intended to serve as references and learning resources for students and anyone interested in academic work.
 
-## 🎯 Svrha repozitorijuma
+## Repository Goals
 
-- Omogućiti studentima besplatan pristup seminarskim radovima
-- Dijeliti akademske radove za inspiraciju i učenje
-- Podstaknuti saradnju i dodavanje novih radova
+- Provide students with free access to seminar papers
+- Share academic work for educational and reference purposes
+- Encourage collaboration and community contributions
 
-## 🤝 Kako doprinjeti?
+## Contributing
 
-Ako ja mogu vama da doprinesem i olakšam studije, dodajte i vi vaš rad i pomozite drugim studentima.
+If these materials help make your studies easier, consider contributing your own work to help other students as well.
 
-Ako želite da dodate svoje seminarske radove:
+To contribute your seminar papers:
 
-1. **Fork-ujte repository**: kliknite na dugme _Fork_ u gornjem desnom uglu GitHub stranice.
-2. **Dodajte svoje radove** u vaš fork (kreirajte odgovarajuće foldere po predmetima ili temama).
-3. **Pošaljite pull request**: kada završite sa dodavanjem, pošaljite pull request da bi vaš doprinos bio pregledan i uključen u glavni repository.
+1. **Fork the repository** by clicking the Fork button in the top-right corner of the GitHub page.
+2. **Add your papers** to your fork and organize them into appropriate folders by subject or topic.
+3. **Submit a pull request** once your additions are ready so they can be reviewed and merged into the main repository.
 
-Na ovaj način zajednica može zajednički stvoriti korisnu zbirku seminarskih radova za sve.
+The goal is to build a useful and accessible collection of academic materials through community collaboration.
 
-## 📄 Licenca
+## License
 
-Svi radovi u ovom repositorijumu su slobodni za korištenje, dijeljenje i prilagođavanje. Cilj je da olakšam studentima i svima koji žele da uče ili razvijaju svoje radove, posebno onima koji imaju obaveze, porodicu ili druge životne izazove. Ovaj repozitorijum je napravljen sa željom da doprinesm zajednici i pomogne svima koji žele da se obrazuju.
+All papers in this repository are free to use, share, and adapt. The purpose of this project is to support students and lifelong learners, especially those balancing studies with work, family, or other responsibilities. This repository was created with the intention of contributing to the community and making educational resources more accessible.
